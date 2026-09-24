@@ -1,7 +1,0 @@
-packages:
-  - "packages/*"
-allowBuilds:
-  '@parcel/watcher': false
-  esbuild: false
-  simple-git-hooks: false
-  vue-demi: false
