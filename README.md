@@ -1,2 +1,2 @@
-# PaiSmart-main
-This Intelligent RAG Academic Q&amp;A Assistant lets users build custom knowledge bases via paper uploads. Using semantic retrieval and LLMs, it mitigates hallucinations and improves literature retrieval. Tech stack: Spring Boot, MySQL, MyBatis, Redis, RabbitMQ, Elasticsearch, MinIO, WebSocket.
+# ai_heart
+The AI Mental Health Service Platform is a mental health assistant for undergraduates, masters and PhD students. It supports emotion diaries, AI counseling, popular science, data statistics and analysis, providing emotion tracking and AI psychological intervention. Tech stack: Spring Boot, MySQL, MyBatis, Redis, JWT, Spring AI, Spring Security.
