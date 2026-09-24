@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/PaiSmart-main.iml" filepath="$PROJECT_DIR$/.idea/PaiSmart-main.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/ai_heart.iml" filepath="$PROJECT_DIR$/.idea/ai_heart.iml" />
+>>>>>>> d4226bc (提交文件)
     </modules>
   </component>
 </project>
